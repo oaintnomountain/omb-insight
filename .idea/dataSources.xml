@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="identifier.sqlite" uuid="48c6d3dc-4dca-4e8b-b70e-13db5d2c534c">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/omb-archiv.sqlite</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="omb-archiv-test.sqlite" uuid="b8720861-9d61-41cc-8317-fbfa11f9989d">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/omb-archiv-test.sqlite</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="omb-archiv.sqlite" uuid="d97bd1ee-7cc7-43b2-bcf2-1f414f1e7671">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/omb-archiv.sqlite</jdbc-url>
+    </data-source>
+  </component>
+</project>
